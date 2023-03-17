@@ -4,15 +4,15 @@ Analysis of sales performance is important because it can provide an understandi
 
 This project aims to analyze sales performance by utilizing the process of analyzing and transforming data and displaying data visualizations so that they are easy to understand. Data will be processed using a data pipeline process to clean, format, and prepare it before being transformed into a form that can be further. This information will be displayed in a visualization dashboard using Power BI which displays important information about sales performance, sales trends, and product sales. Data used in this project includes the following attributes.
 
-| Attribute  | Description                            |
-| ---------- | -------------------------------------- |
-| Order Date | contains the date of order             |
-| Region     | contains orders by region              |
-| Person     | contains customer name                 |
-| Item       | contains product name                  |
-| unit       | contains product sales unit            |
-| Unit Cost  | contains the unit price of the product |
-| Amount     | contains revenue per transaction       |
+| Attribute  | Description                        |
+| ---------- | ---------------------------------- |
+| Order Date | contains date of order             |
+| Region     | contains orders by region          |
+| Person     | contains customer name             |
+| Item       | contains product name              |
+| unit       | contains product sales unit        |
+| Unit Cost  | contains unit price of the product |
+| Amount     | contains revenue per transaction   |
 
 ## 2. Transformation
 
