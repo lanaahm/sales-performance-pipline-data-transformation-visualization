@@ -37,4 +37,4 @@ Dashboard visualization is created using Power BI so that users can easily view 
 
 [Dashboard Visualization](https://app.powerbi.com/view?r=eyJrIjoiNThhNDMwMDEtNDQ1MC00ZWE5LTllM2ItYzRjOTQwODEyYjJjIiwidCI6IjE1ZDA3NjUyLWQ4NzgtNGIwOS05MjJhLWE5ZTlkOTQwZjMxYSIsImMiOjEwfQ%3D%3D)
 
-![Screenshot Power BI](https://user-images.githubusercontent.com/57904007/225773236-ff5cd4fc-01cc-4495-a022-bd319ceb8fcb.png)
+![Screenshot Power BI](https://user-images.githubusercontent.com/57904007/225780132-4e4d5f2f-beeb-452a-bf7b-1db38d9055b1.png)
